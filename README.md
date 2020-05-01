@@ -1,42 +1,48 @@
-##Betterment#
-##A FinTech Case of a Market Leader in Robo-Advisng##
+#Betterment#
+##A FinTech Case Study of a Market Leader in Robo-Advisng##
+***
 
 ###Overview and Origin###
-> Betterment operates in several areas of Financial Technology
+
+> Betterment operates in the space of robo-advising. They have incorporated the expertise of CFP crednetialed financial advisors to provide investment and asset management guidance. It function is several areas of the personal fminance:
+
 - Robo-Advising
 - Asset Management
 - Trust Services
 - Financial Services
 
-> Betterment begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in January 2008. Teh brainchild of Jon stein, who, armed with an MBA from Columbia and CFA designation (Chartered Financial Analyst) was working as a wealth advisor, realized that the industry needed chaging from the status quo. Financial maanagement was unnescessarily complex, and expensive. So Jon eventually met Eli Boverman, a securities attorney and entreprenuer, and they decided to obtain broker dealer services and form a registered investment advisor to provide.
+> Betterment begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in January 2008. Teh brainchild of Jon stein, who, armed with an MBA from Columbia and CFA designation (Chartered Financial Analyst) was working as a wealth advisor, realized that the industry needed changing from the status quo. Financial maanagement was unnescessarily complex, and expensive. The indmustry did not have the desire to change and adopt new ways of working with clients. So Jon eventually met Eli Boverman, a securities attorney and entreprenuer, and they decided to obtain broker dealer services and form a registered investment advisor to provide.
+
 > With a great of skepticism from Chris Sacca, a famed silicon venture capitalist, Betterment did received funding via Techcrunch from Bessemer Venters and a Series B round from Menlo Ventures.
 
 source: Wikipedia: [https://en.wikipedia.org/wiki/Betterment_(company)]
 
 ###Business Activities###
 
-> Betterment eliminate the need for the do-it-yourselfers to conduct their own research and avoid missing boom stock market cycles and miss crashes, using Modern Portfolio Theory. The intended custoer are those looking for a simple way to begin investing, even if they have relatively modest financial resorurces. These clients will be early in their wealth accumulation plans.
+> Betterment eliminate the need for the do-it-yourselfers to conduct their own research and avoid missing boom stock market cycles and miss crashes, using Modern Portfolio Theory. The intended custoer are those looking for a simple way to begin investing, even if they have relatively modest financial resorurces. These clients will be early in their wealth accumulation plans. Betterment uses a lot of funds from Vanguard to help build their Exchanged Traded Funds Portfolios because of their low costs. Over the last 10 years, costs have become front and center in the discussipon of investing. However, the recent headwinds due to Covid-19 has helped client realize that passive investing can also be very danagerous. Betterment, in addition to all robo-advisors, will likely be looking to incorporate more customization as part of their platforms.
 
 >Betterment is a clear leader among robo-advisors, with two service options: Betterment Digital has no account minimum and charges 0.25% of assets under management annually. Betterment Premium provides unlimited phone access to certified financial planners for a 0.40% fee and $100,000 account minimum.
 
 > Their use of CFP to provide direct communication with clients provides assurance that they are getting truly professional adviosce on a digital platform. It tryuly was the first company to be able to prove the best of both worlds. The market for Betterment is can include every working adult in the US and that number can grow as teh labor force participation increases.
 
 ###Technology###
-> Betterment uses a vast array of technologies to operate its platform.  The intial construction included Javascript and MySQL, Apache servers and Flex Adobe Flash front-end design.
+> Betterment uses a vast array of technologies to operate its platform.  The intial construction included Javascript and MySQL, Apache servers and Flex and  Adobe-Flash front-end design.
 
-> Additional technology utilized include:
+> Additional technologies utilized by Betterment include:
 
 - *Applications and Data*
 > Javascript, PHP, Python, Ruby nginx, Cloudflare,Java, AmazonCloudFRont, Google Cloud, CSS 3, Go, Backbone, Underscore, Groovy
 
 - *Utilities*
-> Google Analytics, Mailgun,Mixpanel,Mandrill, CrazyEgg
+> Google Analytics, Mailgun, Mixpanel,Mandrill, CrazyEgg
 
 - *DevOPS*
 > Docker, New Relic
 
 - *Business Tools*
 > Wordpress, G Suite, Qualaroo
+
+> It is important to reconginize all of the technology involved ini building a platform. There are many moving parts as well as opprotunities in the financial technology space. All companies, eventually, will require technology to allow them to continue to grow customers and eveluate the the best way to deliver the products and services clients need.
 
 ###New Trends in the Robo-advising Space###
 
@@ -46,6 +52,7 @@ Financial advisors will be forced to show their value. The robo-advising platfor
 - Banking services (M1 and Wealthfront offer loans and other banking services) 
 - Robo Advisors embrace sustainability
 - Nonfinancial companies with robo-advisors (overstock offers basic portfolio, but Google, Amazon and FB probably won’t be far behind)
+
 **source:** [Money.usnews.com/investing/investing1010/articles/how-robo-advisors-will-change]
 
 ###Competitors###
