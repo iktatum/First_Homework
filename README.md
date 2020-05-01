@@ -2,30 +2,33 @@
 ## A FinTech Case of a Market Leader in Robo-Advisng ##
 
 ### Overview and Origin ###
+> Betterment operates in several areas of Financial Technology
+- Robo-Advisor
+- Asset Management
+- Trust Services
+- Financial Services
 
-> Betterment as an idea begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in January 2008. Teh brainchild of Jon stein, who, armed with the CFA designation (chartered Financial Analyst( was working as a wealth advisor, realized that the industry needed chaging from the status quo. Financial maanagement was unnescessarily complex, and expensive. So Jon eventually met Eli Boverman, a securities attorney and entreprenuer, and they decided to obtain broker dealer services and form a registered investment advisor to provide.
+> Betterment begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in January 2008. Teh brainchild of Jon stein, who, armed with an MBA from Columbia and CFA designation (Chartered Financial Analyst) was working as a wealth advisor, realized that the industry needed chaging from the status quo. Financial maanagement was unnescessarily complex, and expensive. So Jon eventually met Eli Boverman, a securities attorney and entreprenuer, and they decided to obtain broker dealer services and form a registered investment advisor to provide.
 > With a great of skepticism from Chris Sacca, a famed silicon venture capitalist, Betterment did received funding via Techcrunch from Bessemer Venters and a Series B round from Menlo Ventures.
 
 ## Business Activities ##
-Financial services, asset management, portfolio management, trust services
 * What specific financial problem is the company or project trying to solve?
 Eliminate to need for the do-it-yourselfers to conduct their own research and avoid missing boom stock market cycles and miss crashes, musing Modern Portfolio Theory 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? 
-- Applications and Data
+> Betterment uses a vast array of technologies to operate its platform.  The intial construction included Javascript and MySQL, Apache servers and Flex Adobe Flash front-end design.
+> Additional technology utilized include:
+
+- *Applications and Data*
 > Javascript, PHP, Python, Ruby nginx, Cloudflare,Java, AmazonCloudFRont, Google Cloud, CSS 3, Go, Backbone, Underscore, Groovy
-- Utilities
+- *Utilities*
 > Google Analytics, Mailgun,Mixpanel,Mandrill,CrazyEgg
-- DevOPS
+- *DevOPS*
 > Docker, New Relic
-- Business Tools
+- *Business Tools*
 > Wordpress, G Suite, Qualaroo
 
-* What domain of the financial industry is the company in?
-- Robo-Advisor
-- Wealth Management
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 Financial advisors showing their value (high net worth indicudla need more nuanced advice)
@@ -33,8 +36,7 @@ New niches (Socially responsible, Sharia law compliance, women-only, stock only
 Banking services (M1 and Wealthfront offer loans and other banking services) 
 Robo Advisors that embrace sustainability
 Nonfinancial companies with robo-advisors (overstock offers basic portfolio, but Google, Amazon and FB probably won’t be far behind)
-source  
-Money.usnews.com/investing/investing1010/articles/how-robo-advisors-will-change
+**source:**  *Money.usnews.com/investing/investing1010/articles/how-robo-advisors-will-change*
 
 
 * What are the other major companies in this domain?
