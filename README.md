@@ -1,4 +1,5 @@
 #Betterment#
+
 ##A FinTech Case Study of a Market Leader in Robo-Advisng##
 ***
 
@@ -13,10 +14,11 @@
 
 > Betterment begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in January 2008. The brainchild of Jon Stein, armed with an MBA from Columbia Business School and CFA designation (Chartered Financial Analyst) was working as a wealth advisor, realized that the industry needed changing from the status quo. Financial maanagement was unnescessarily complex, and expensive. The industry did not have the desire to change and adopt new ways of working with clients. So Jon eventually met Eli Boverman, a securities attorney and entreprenuer, decided to obtain broker dealer services and form a registered investment advisor so they could  allow for clients to invest in what is now know as Betterment. 
 
-> With a great of skepticism from Chris Sacca, a famed silicon venture capitalist, Jon and Eli persevered and Betterment eventuly did received funding via Techcrunch Disrup from Bessemer Venturesn Series A and a Series B round from Menlo Ventures. 
+> With a great of skepticism from Chris Sacca, a famed silicon venture capitalist, Jon and Eli persevered and Betterment eventuly did received funding via Techcrunch Disrup from Bessemer Venturesn Series A and a Series B round from Menlo Ventures.
+
 > They acquired 400 customers the first day of operations, far exceeding their expectation of that day.
 
-source: Wikipedia: [https://en.wikipedia.org/wiki/Betterment_(company)]
+> source: Wikipedia: [https://en.wikipedia.org/wiki/Betterment_(company)]
 
 ###Business Activities###
 
