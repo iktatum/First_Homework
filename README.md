@@ -1,9 +1,9 @@
 # #Betterment #
-# A FinTEch Case of a Market Leader in Robo-Advisng #
+# A FinEEch Case of a Market Leader in Robo-Advisng #
 
 ## Overview and Origin
 
-> Betterment as an idea begain in 2008 with teh advent of bthe financmial crisis, but was officially 
+> Betterment as an idea begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in 2008. Teh brainchild of Jon stein, who, armed with the CFA designation (chartered Financial Analyst( was working as a wealth advisor, realized that the industry needed chaging from the status quo. Financial maanagement was unnescessarily complex, and expensive. So Jon met Eli Boverman, a securities attorney and entreprenuer, and they decided to btain broker dealer services and form a registered minvestment advisor to provide 
 
 * When was the company incorporated?
 
