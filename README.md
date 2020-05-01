@@ -11,9 +11,10 @@
 - Trust Services
 - Financial Services
 
-> Betterment begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in January 2008. Teh brainchild of Jon stein, who, armed with an MBA from Columbia and CFA designation (Chartered Financial Analyst) was working as a wealth advisor, realized that the industry needed changing from the status quo. Financial maanagement was unnescessarily complex, and expensive. The indmustry did not have the desire to change and adopt new ways of working with clients. So Jon eventually met Eli Boverman, a securities attorney and entreprenuer, and they decided to obtain broker dealer services and form a registered investment advisor to provide.
+> Betterment begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in January 2008. The brainchild of Jon Stein, armed with an MBA from Columbia Business School and CFA designation (Chartered Financial Analyst) was working as a wealth advisor, realized that the industry needed changing from the status quo. Financial maanagement was unnescessarily complex, and expensive. The industry did not have the desire to change and adopt new ways of working with clients. So Jon eventually met Eli Boverman, a securities attorney and entreprenuer, decided to obtain broker dealer services and form a registered investment advisor so they could  allow for clients to invest in what is now know as Betterment. 
 
-> With a great of skepticism from Chris Sacca, a famed silicon venture capitalist, Betterment did received funding via Techcrunch from Bessemer Venters and a Series B round from Menlo Ventures.
+> With a great of skepticism from Chris Sacca, a famed silicon venture capitalist, Jon and Eli persevered and Betterment eventuly did received funding via Techcrunch Disrup from Bessemer Venturesn Series A and a Series B round from Menlo Ventures. 
+> They acquired 400 customers the first day of operations, far exceeding their expectation of that day.
 
 source: Wikipedia: [https://en.wikipedia.org/wiki/Betterment_(company)]
 
@@ -21,7 +22,7 @@ source: Wikipedia: [https://en.wikipedia.org/wiki/Betterment_(company)]
 
 > Betterment eliminate the need for the do-it-yourselfers to conduct their own research and avoid missing boom stock market cycles and miss crashes, using Modern Portfolio Theory. The intended custoer are those looking for a simple way to begin investing, even if they have relatively modest financial resorurces. These clients will be early in their wealth accumulation plans. Betterment uses a lot of funds from Vanguard to help build their Exchanged Traded Funds Portfolios because of their low costs. Over the last 10 years, costs have become front and center in the discussipon of investing. However, the recent headwinds due to Covid-19 has helped client realize that passive investing can also be very danagerous. Betterment, in addition to all robo-advisors, will likely be looking to incorporate more customization as part of their platforms.
 
->Betterment is a clear leader among robo-advisors, with two service options: Betterment Digital has no account minimum and charges 0.25% of assets under management annually. Betterment Premium provides unlimited phone access to certified financial planners for a 0.40% fee and $100,000 account minimum.
+> Betterment is a clear leader among robo-advisors, with two service options: Betterment Digital has no account minimum and charges 0.25% of assets under management annually. Betterment Premium provides unlimited phone access to certified financial planners for a 0.40% fee and $100,000 account minimum.
 
 > Their use of CFP to provide direct communication with clients provides assurance that they are getting truly professional adviosce on a digital platform. It tryuly was the first company to be able to prove the best of both worlds. The market for Betterment is can include every working adult in the US and that number can grow as teh labor force participation increases.
 
@@ -46,7 +47,7 @@ source: Wikipedia: [https://en.wikipedia.org/wiki/Betterment_(company)]
 
 ###New Trends in the Robo-advising Space###
 
-Financial advisors will be forced to show their value. The robo-advising platforms have allowed all market particpants to participate in investinig in a way that is simple. But clients who have accumulated substantial wealth will have to really show their value as advisors. Because bthe wealthy have a more nuances when it comes to managimg money, they will be forced to adopt new skill, and technologies. Some of the niches include:
+> Financial advisors will be forced to show their value. The robo-advising platforms have allowed all market particpants to participate in investinig in a way that is simple. But clients who have accumulated substantial wealth will have to really show their value as advisors. Because bthe wealthy have a more nuances when it comes to managimg money, they will be forced to adopt new skill, and technologies. Some of the niches include:
 
 - New niches (Socially responsible, Sharia law compliance, women-only, stock only 
 - Banking services (M1 and Wealthfront offer loans and other banking services) 
@@ -56,6 +57,7 @@ Financial advisors will be forced to show their value. The robo-advising platfor
 **source:** [Money.usnews.com/investing/investing1010/articles/how-robo-advisors-will-change]
 
 ###Competitors###
+
 > Competitors in this space in include Wealthfront, Ellevest, Personal capital, SoFI, M1 Finance, Stash, Robinshood. Traditional competitors also include Fidelity, Vanguard, and traditional banks like JP MOrgan and Bank of America.
 
 
@@ -72,6 +74,8 @@ Betterment has been able to take advantage of the first mover advantage. Having 
 ###Recommendations - Looking forward###
 
 > If I were to serve in advisory capacity, I would recommend the company buidl out important cash management platforms and sweep option as well as an enhanced suite of banking services, like Business loans, payment processing and business financial consulting. The ability to monetize the current client base can be accompplished with additional client acquisition cost. Cash management and securities lending contributes to a significant amount of reveneus to companies that have already been in this space for many years.  Original investors will want to know how increased revenue sbtreams can be accomplished.
+
 > I expect that the industry will undergo some consolidation. Economies of scale can be accomplished because acquiring the share of wallet can be expensive. Firms will start to look very similary b y offering the full suite of financial services, investment services and cash management services.
+
 > Banking as a service and firms that can provide a customized way of providing service will dominate. Utilizing cloud software so that firms can deisn the financial products that they need should become a trend. I also believe that the trend will not only include financial services, but include enterprise financial solutions. 
 
