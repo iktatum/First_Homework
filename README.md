@@ -1,38 +1,31 @@
 # #Betterment #
-# A FinEEch Case of a Market Leader in Robo-Advisng #
+## A FinTech Case of a Market Leader in Robo-Advisng ##
 
-## Overview and Origin
+### Overview and Origin ###
 
-> Betterment as an idea begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in 2008. Teh brainchild of Jon stein, who, armed with the CFA designation (chartered Financial Analyst( was working as a wealth advisor, realized that the industry needed chaging from the status quo. Financial maanagement was unnescessarily complex, and expensive. So Jon met Eli Boverman, a securities attorney and entreprenuer, and they decided to btain broker dealer services and form a registered minvestment advisor to provide 
+> Betterment as an idea begain in 2008 with teh advent of bthe financmial crisis by Jon Stein and Eli Boverman, but was officially began operation in January 2008. Teh brainchild of Jon stein, who, armed with the CFA designation (chartered Financial Analyst( was working as a wealth advisor, realized that the industry needed chaging from the status quo. Financial maanagement was unnescessarily complex, and expensive. So Jon eventually met Eli Boverman, a securities attorney and entreprenuer, and they decided to obtain broker dealer services and form a registered investment advisor to provide.
+> With a great of skepticism from Chris Sacca, a famed silicon venture capitalist, Betterment did received funding via Techcrunch from Bessemer Venters and a Series B round from Menlo Ventures.
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
-
-## Business Activities:
+## Business Activities ##
 Financial services, asset management, portfolio management, trust services
 * What specific financial problem is the company or project trying to solve?
 Eliminate to need for the do-it-yourselfers to conduct their own research and avoid missing boom stock market cycles and miss crashes, musing Modern Portfolio Theory 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-Applications and Data
-Javascript, PHP< Python, Ruby nginx, Cloudflare,Java, AmazonCloudFRont, Google Cloud, CSS 3, Go, Backbone, Underscore, Groovy
-Utilities
-Google Analytics, Mailgun,Mixpanel,Mandrill,CrazyEgg
-DevOPS
-Docker, New Relic
-Business Tools
-Wordpress, G Suite, Qualaroo
+* Which technologies are they currently using, and how are they implementing them? 
+- Applications and Data
+> Javascript, PHP, Python, Ruby nginx, Cloudflare,Java, AmazonCloudFRont, Google Cloud, CSS 3, Go, Backbone, Underscore, Groovy
+- Utilities
+> Google Analytics, Mailgun,Mixpanel,Mandrill,CrazyEgg
+- DevOPS
+> Docker, New Relic
+- Business Tools
+> Wordpress, G Suite, Qualaroo
 
 * What domain of the financial industry is the company in?
-	Robo-Advisor, Wealth Management
+- Robo-Advisor
+- Wealth Management
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 Financial advisors showing their value (high net worth indicudla need more nuanced advice)
