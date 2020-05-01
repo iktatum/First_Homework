@@ -51,29 +51,28 @@
 
 > Financial advisors will be forced to show their value. The robo-advising platforms have allowed all market particpants to participate in investinig in a way that is simple. But clients who have accumulated substantial wealth will have to really show their value as advisors. Because bthe wealthy have a more nuances when it comes to managimg money, they will be forced to adopt new skill, and technologies. Some of the niches include:
 
-- New niches (Socially responsible, Sharia law compliance, women-only, stock only 
+- New niches (Socially responsible investing, Sharia law compliance, women-only, stock only)
 - Banking services (M1 and Wealthfront offer loans and other banking services) 
-- Robo Advisors embrace sustainability
+- Robo Advisors embrace sustainable investing
 - Nonfinancial companies with robo-advisors (overstock offers basic portfolio, but Google, Amazon and FB probably won’t be far behind)
 
 **source:** [Money.usnews.com/investing/investing1010/articles/how-robo-advisors-will-change]
 
-###Competitors###
+###Competitor Summary###
 
-> Competitors in this space in include Wealthfront, Ellevest, Personal capital, SoFI, M1 Finance, Stash, Robinshood. Traditional competitors also include Fidelity, Vanguard, and traditional banks like JP MOrgan and Bank of America.
+> Competitors in this space in include Wealthfront, Ellevest, Personal capital, SoFI, M1 Finance, Stash, Robinhood. Traditional competitors in the personal finance industry include incumbent players like Fidelity Investments, Vanguard, and even traditional banks like JP MOrgan and Bank of America.
 
-
-##Results##
+##Results of the Industry##
 
 > Betterment has made a huge impact on the financmial services industry. There are now more participants in the financial markets and this has led some of the polder mincumbents to adopt both a new pricing strategy and channel strategy to maintain their customer base.  It has spurred other companies like Acorns, Robinhood, Wealthfront, to enter the robo-advising space. It has also prompted incumbents, like TD Ameritrade, Vanguard, Fidelity and others, to create their own robo-advisor platforms and enter this space as well. 
  They have led the charge to reduce the amount that clients have to pay for financial advice. This has also led to an over reduction of cost in the industry, which is better for the individual consumer. 
 
-> Determinant of msuccess are boiled down to two main themes: New Customers and assets under management
+> Determinant of success are boiled down to two main themes: New Customers and assets under management
 The metrics that the company uses are the number of new customers and AUM, which stands for assets under management.
-As of 2019, Betterment has acquired nearly $ 17 billion in asset under maagement and over 400,000 customers.
+As of 2019, Betterment has acquired nearly $17 billion in asset under maagement and over 400,000 customers.
 Betterment has been able to take advantage of the first mover advantage. Having come to market in 2010 has allowed them to accumulate assets at a level that has exceeded its peers. Its simple and easy to use platform turned out to be very popular to the public. There was skepticism that they made investing too simple for it to be popular. Thos skeptics could not have been more incorrect. 
 
-###Recommendations - Looking forward###
+###Recommendations - Looking Forward###
 
 > If I were to serve in advisory capacity, I would recommend the company buidl out important cash management platforms and sweep option as well as an enhanced suite of banking services, like Business loans, payment processing and business financial consulting. The ability to monetize the current client base can be accompplished with additional client acquisition cost. Cash management and securities lending contributes to a significant amount of reveneus to companies that have already been in this space for many years.  Original investors will want to know how increased revenue sbtreams can be accomplished.
 
